@@ -32,7 +32,7 @@
 
 ## Technologies Used
 - library - version 4.0
-- 
+
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
